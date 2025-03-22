@@ -1,0 +1,14 @@
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\bin\Debug\net8.0\P1POO.exe
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\bin\Debug\net8.0\P1POO.deps.json
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\bin\Debug\net8.0\P1POO.runtimeconfig.json
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\bin\Debug\net8.0\P1POO.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\bin\Debug\net8.0\P1POO.pdb
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\refint\P1POO.dll
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.pdb
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\P1POO.genruntimeconfig.cache
+C:\Users\joseg\OneDrive\Escritorio\Programacion 1\P1POO\P1POO\obj\Debug\net8.0\ref\P1POO.dll
